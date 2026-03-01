@@ -1,0 +1,5 @@
+{
+  "name": "EcoGuide AI: Smart Recycling Assistant",
+  "description": "An AI-powered recycling guide that uses image recognition and search to help you dispose of waste responsibly.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
