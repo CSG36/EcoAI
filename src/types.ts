@@ -20,6 +20,9 @@ export interface MaterialInfo {
   name: string;
   composition: string;
   recyclabilityRate: string;
+  environmentalImpact: string;
+  decompositionTime: string;
+  specializedProcess: string;
   commonUses: string[];
   funFact: string;
 }
